@@ -1,0 +1,9 @@
+Phân tích
+1. header
+2.slider
+3.content
+    a.About
+    b.Tour
+    c.Contact
+    d.Image
+4.Footer
